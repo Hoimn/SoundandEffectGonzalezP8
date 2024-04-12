@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 884288683116205485}
   - component: {fileID: 1411321657909545511}
   - component: {fileID: 2528866776199694428}
+  - component: {fileID: 1632517799832832137}
   m_Layer: 0
   m_Name: Prop_StoneWall_01
   m_TagString: Untagged
@@ -165,3 +166,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1632517799832832137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5913432388360728655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79a845bcbc134db4995700a1312d9d3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
